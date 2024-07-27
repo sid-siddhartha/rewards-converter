@@ -26,6 +26,4 @@ public class RewardValue {
     public double getMilesValue() {
         return (int)convertCtoM(this.cashValue);
     }
-
-
 }
